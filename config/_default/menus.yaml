@@ -27,7 +27,7 @@ main:
     parent: dataset
     url: https://sjtu-magic.github.io/dataset/AM3D/
     weight: 20
-  - name: dair-v2x-c-complemented
+  - name: DAIR-V2X-C-Complemented
     parent: dataset
     url: https://sjtu-magic.github.io/dataset/dair-v2x-c-complemented/
     weight: 30
