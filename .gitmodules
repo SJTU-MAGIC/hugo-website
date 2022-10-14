@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/SJTU-MAGIC/sjtu-magic.github.io.git
+	url = https://github.com/Siheng-Chen/Siheng-Chen.github.io.git
 	branch = main
